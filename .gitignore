@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# build output
+/dist
+/tmp
+/.angular/cache
+
+# misc
+.DS_Store
+*.log
+/.vscode/*
+!/.vscode/extensions.json
+
+# CV source files (the public copy lives in src/assets/CV-Emilio-Ramirez.pdf)
+/CV_Emilio_Ramirez.docx
+/CV_Emilio_Ramirez.pdf
